@@ -5,3 +5,4 @@ class CreateStudents < ActiveRecord::Migration
     t.string :birthday
   end
 end
+end
